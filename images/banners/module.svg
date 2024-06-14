@@ -287,5 +287,5 @@
   }
   document.getElementById("tspan1561").innerHTML = searchParams.get('title');
   document.getElementById("tspan332").innerHTML = '$ ' + searchParams.get('price');
-  document.getElementById("image336").setAttribute('xlink:href', '/cache/integratize/static/' + searchParams.get('name') + '.png');
+  document.getElementById("image336").setAttribute('xlink:href', 'https://senius-git.github.io/assets-dist/images/screenshot/' + searchParams.get('name') + '.png');
   ]]></script></svg>
